@@ -1,0 +1,6 @@
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/ASDPKP/HW3.git
+[submodule "HW3-kubernetes-Deployment"]
+	path = HW3-kubernetes-Deployment
+	url = https://github.com/ASDPKP/HW3-kubernetes-Deployment.git
